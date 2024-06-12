@@ -1,3 +1,5 @@
+    # quiz_usiu
+    
     1. Even or Odd Checker
         ◦ Write a Python program that prompts the user to enter a number. The program should then print whether the number is even or odd.
         ◦ Hint: Use the modulus operator % to determine if the number is even or odd.
@@ -28,4 +30,4 @@
     10. Remove Duplicates from a List
         ◦ Write a Python function that takes a list as an argument and returns a new list with duplicates removed.
         ◦ Hint: Use a loop to iterate through the list and add elements to a new list if they are not already present.
-# quiz_usiu
+
